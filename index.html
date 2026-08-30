@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI StudyMate</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand"><span>✦</span> AI StudyMate</div>
+      <nav>
+        <button class="nav-btn active" data-page="home">🏠 الرئيسية</button>
+        <button class="nav-btn" data-page="dashboard">📊 لوحة التحكم</button>
+        <button class="nav-btn" data-page="subjects">📚 المواد</button>
+        <button class="nav-btn" data-page="tasks">✅ المهام</button>
+        <button class="nav-btn" data-page="exams">📝 الامتحانات</button>
+        <button class="nav-btn" data-page="ai">🤖 مولد الأسئلة</button>
+        <button class="nav-btn" data-page="progress">📈 التقدم</button>
+      </nav>
+      <button id="themeBtn" class="theme-btn">🌙 الوضع الداكن</button>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <button id="menuBtn" class="mobile-menu">☰</button>
+        <div>
+          <h2 id="pageTitle">AI StudyMate</h2>
+          <small>نظّم مذاكرتك، وتابع تقدمك، واستفد من الذكاء الاصطناعي.</small>
+        </div>
+      </header>
+
+      <section id="content"></section>
+    </main>
+  </div>
+
+  <div id="modal" class="modal hidden">
+    <div class="modal-card">
+      <button class="close" onclick="closeModal()">×</button>
+      <h3 id="modalTitle"></h3>
+      <form id="modalForm"></form>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
