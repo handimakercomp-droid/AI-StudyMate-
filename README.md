@@ -28,6 +28,7 @@ AI StudyMate هو تطبيق ويب يساعد الطلاب على تنظيم و
 
 ### 🏠 الصفحة الرئيسية
 تعرض فكرة التطبيق وأهم المميزات، مع إمكانية الانتقال إلى لوحة التحكم.
+<img width="1600" height="734" alt="image" src="https://github.com/user-attachments/assets/74a9b46e-a42d-486d-aa08-a59b2c17df29" />
 
 ### 📊 لوحة التحكم
 تعرض ملخصًا لحالة الدراسة، مثل:
@@ -36,6 +37,7 @@ AI StudyMate هو تطبيق ويب يساعد الطلاب على تنظيم و
 - المهام المكتملة.
 - الامتحانات القادمة.
 - نسبة التقدم في المواد.
+<img width="1583" height="733" alt="image" src="https://github.com/user-attachments/assets/08341482-badb-4b37-9088-5f8025ebdfbb" />
 
 ### 📚 المواد الدراسية
 يمكن للمستخدم:
@@ -44,6 +46,7 @@ AI StudyMate هو تطبيق ويب يساعد الطلاب على تنظيم و
 - تحديد عدد الساعات المستهدفة.
 - تسجيل الساعات المكتملة.
 - متابعة نسبة التقدم.
+<img width="1600" height="741" alt="image" src="https://github.com/user-attachments/assets/f6407b1a-8c5d-404a-9e0a-b6ae9af5efcf" />
 
 ### ✅ المهام
 يمكن للمستخدم:
@@ -53,6 +56,7 @@ AI StudyMate هو تطبيق ويب يساعد الطلاب على تنظيم و
 - تحديد مستوى الأولوية.
 - تحديد المهمة كمكتملة.
 - حذف المهمة.
+<img width="1600" height="730" alt="image" src="https://github.com/user-attachments/assets/6db0cc05-8548-47ad-971d-a9b081c9a0dc" />
 
 ### 📝 الامتحانات
 يمكن للمستخدم إضافة:
@@ -61,6 +65,7 @@ AI StudyMate هو تطبيق ويب يساعد الطلاب على تنظيم و
 - التاريخ.
 - الوقت.
 - الملاحظات.
+<img width="1584" height="729" alt="image" src="https://github.com/user-attachments/assets/6d137c4a-4e13-41e2-8fe3-92ca748058bc" />
 
 ### 🤖 مولد الأسئلة بالذكاء الاصطناعي
 يمكن للمستخدم إدخال موضوع المذاكرة والملاحظات، ثم تحديد:
@@ -78,6 +83,7 @@ AI StudyMate هو تطبيق ويب يساعد الطلاب على تنظيم و
 - الساعات المكتملة.
 - عدد المهام المكتملة.
 - نسبة التقدم في كل مادة.
+<img width="1375" height="726" alt="image" src="https://github.com/user-attachments/assets/80d8f4ee-bbb1-42bc-b622-b6446f71f7cc" />
 
 ### 🌙 Dark Mode
 يدعم التطبيق الوضع الداكن لتحسين تجربة الاستخدام في الإضاءة المنخفضة.
